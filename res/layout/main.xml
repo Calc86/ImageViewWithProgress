@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:whatever="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+
+    <ru.xsrv.view.ilprogress.view.ImageViewProgress
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            whatever:uri="http://st.gdefon.com/wallpapers_original/wallpapers/545533_kosmos_3d_art_12000x6500_(www.GdeFon.ru).jpg">
+    </ru.xsrv.view.ilprogress.view.ImageViewProgress>
+
+    <!--<ru.xsrv.view.ilprogress.view.ImageViewProgress
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+    </ru.xsrv.view.ilprogress.view.ImageViewProgress>-->
+</LinearLayout>
+
